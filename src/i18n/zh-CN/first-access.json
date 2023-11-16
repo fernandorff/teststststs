@@ -1,0 +1,9 @@
+{
+  "EMAIL_SUBJECT": "欢迎使用EcoTrace。",
+  "META_TITLE": "欢迎使用EcoTrace。",
+  "BODY_PLATFORM": "平台",
+  "BODY_PLATFORM_NAME": "TRACE BEEF",
+  "BODY_CONFIRM_REGISTRATION": "确认您的注册",
+  "BODY_MAIN_MESSAGE": "您已在Trace Beef平台注册。请点击下面的链接确认您的注册，以获取对该平台的访问权限。",
+  "BODY_BUTTON_TEXT": "设置密码"
+}

@@ -1,0 +1,9 @@
+{
+  "EMAIL_SUBJECT": "Welcome to EcoTrace.",
+  "META_TITLE": "Welcome to EcoTrace.",
+  "BODY_PLATFORM": "Platform",
+  "BODY_PLATFORM_NAME": "TRACE BEEF",
+  "BODY_CONFIRM_REGISTRATION": "Confirm your registration",
+  "BODY_MAIN_MESSAGE": "You have been registered on the Trace Beef platform. Please confirm your registration by clicking the link below to gain access to the platform.",
+  "BODY_BUTTON_TEXT": "Set Password"
+}

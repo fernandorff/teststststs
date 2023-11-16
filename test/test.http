@@ -1,0 +1,30 @@
+GET http://localhost:5000/v1/users HTTP/1.1
+content-type: application/json
+
+###
+
+POST http://localhost:5000/v1/users HTTP/1.1
+content-type: application/json
+
+{
+  "nome": "John Doe",
+  "tipoDocumento": "RG",
+  "nrDocumento": "123456789",
+  "departamento": "TI",
+  "cargo": "Desenvolvedor",
+  "email": "johndoe@example.com",
+  "emailRecuperacao": null,
+  "pwd": "senha123",
+  "celular": "987654321",
+  "celularRecuperacao": null,
+  "idioma": "pt-br",
+  "ultimaAssinatura": null,
+  "pwdTokenRecuperacao": null,
+  "avatarId": null,
+  "roleId": "459413831777519055",
+  "createdAt": "2023-06-23T12:00:00.000Z",
+  "updatedAt": "2023-06-23T12:00:00.000Z",
+  "deletedAt": null,
+  "flagStatus": "A"
+}
+

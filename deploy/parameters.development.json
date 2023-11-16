@@ -1,0 +1,12 @@
+{
+"APP_NAME": "tbf-admin-api",
+"API_VERSION": "v1",
+"QRCODE_BUCKET": "repo-tsi-qrcode-imagens",
+"QRCODE_EXPIRES": "300",
+"AWS_REGION": "us-east-1",
+"SERVICE_DB_PERSISTENCE_HOST": "http://ecotrace-main-nlb-0c5babe940c1276e.elb.us-east-1.amazonaws.com:5002",
+"JWT_SECRET_KEY":"SECRET",
+"SWAGGER_JSON_FILE_NAME": "tbf-adm-api.development.json",
+"EMAIL_SOURCE": "noreply@ecotrace.tecnology",
+"IS_SMS_ENABLED": "true"
+}
